@@ -1,0 +1,120 @@
+2018-10-21 18:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (1,1000,EUR) [42102-197]
+2018-10-21 18:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (2,1000,EUR) [42102-197]
+2018-10-21 18:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (3,1000,EUR) [42102-197]
+2018-10-21 18:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (4,1000,EUR) [42102-197]
+2018-10-21 18:34:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (5,1000,EUR) [42102-197]
+2018-10-21 18:34:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (1,1000,EUR) [42102-197]
+2018-10-21 18:34:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (2,1000,EUR) [42102-197]
+2018-10-21 18:34:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (3,1000,EUR) [42102-197]
+2018-10-21 18:34:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (4,1000,EUR) [42102-197]
+2018-10-21 18:34:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ACCOUNT" not found; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (5,1000,EUR) [42102-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (1,1000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (1,1000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (2,2000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (2,2000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (3,3000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (3,3000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (4,4000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (4,4000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (5,5000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (5,5000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (6,6000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (6,6000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (7,7000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (7,7000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (8,8000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (8,8000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (9,9000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (9,9000,EUR) [42001-197]
+2018-10-21 18:36:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO USER_ACCOUNT(ID,TOTALAMOUNT,ACCOUNTTYPE) VALUE[*] (10,10000,EUR) "; expected "DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) value (10,10000,EUR) [42001-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (1,1000,'EUR') -- (1, 1000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (2,2000,'EUR') -- (2, 2000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (3,3000,'EUR') -- (3, 3000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (4,4000,'EUR') -- (4, 4000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (5,5000,'EUR') -- (5, 5000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (6,6000,'EUR') -- (6, 6000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (7,7000,'EUR') -- (7, 7000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (8,8000,'EUR') -- (8, 8000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (9,9000,'EUR') -- (9, 9000, 'EUR') [22018-197]
+2018-10-21 18:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (10,10000,'EUR') -- (10, 10000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (1,1000,'EUR') -- (1, 1000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (2,2000,'EUR') -- (2, 2000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (3,3000,'EUR') -- (3, 3000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (4,4000,'EUR') -- (4, 4000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (5,5000,'EUR') -- (5, 5000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (6,6000,'EUR') -- (6, 6000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (7,7000,'EUR') -- (7, 7000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (8,8000,'EUR') -- (8, 8000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (9,9000,'EUR') -- (9, 9000, 'EUR') [22018-197]
+2018-10-21 18:40:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'EUR' (USER_ACCOUNT: ACCOUNTTYPE INTEGER)"; SQL statement:
+INSERT INTO user_account(id,totalAmount,accountType) VALUES (10,10000,'EUR') -- (10, 10000, 'EUR') [22018-197]
